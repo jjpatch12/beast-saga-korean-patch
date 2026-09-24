@@ -1,0 +1,5 @@
+*.zip
+.korean_patch_data/
+BeastSaga_Data/
+*.exe
+._KoreanPatch_Backup/
