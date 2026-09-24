@@ -18,7 +18,7 @@
 
 ## 다운로드·설치
 
-아래 Assets에서 **`Beast Saga 한국어 패치.zip`**을 받으세요. GitHub가 자동 제공하는 `Source code` 압축파일은 설치 패키지가 아닙니다.
+아래 Assets에서 **`Beast-Saga-Korean-Patch-v0.9.0.zip`**을 받으세요. 원본 `Beast Saga 한국어 패치.zip`과 내용은 동일하며 배포 파일명만 정리했습니다. GitHub가 자동 제공하는 `Source code` 압축파일은 설치 패키지가 아닙니다.
 
 1. 게임을 종료합니다.
 2. ZIP을 폴더에 모두 압축 해제합니다.
@@ -34,7 +34,7 @@
 - 지원 대상: 설치기가 확인하는 원본 파일 해시와 일치하는 Windows 게임 설치본. 다른 버전·다른 패치 파일은 설치 전 검사에서 차단합니다.
 - 확인 사항: 변경분 복원 해시 검사, 부분 설치, 설치 오류 시 복원, 기존 적용 상태 인식, 업로드 ZIP 내부 데이터 해시 검증.
 
-SHA-256 (`Beast Saga 한국어 패치.zip`):
+SHA-256 (`Beast-Saga-Korean-Patch-v0.9.0.zip`):
 
 ```text
 e59968a8a1dbe489bd8f7913f16c8b558a7ab600ed11e86574ab2d9f1455cca5
