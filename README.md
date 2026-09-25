@@ -2,7 +2,7 @@
 
 Beast Saga 비공식 한국어 패치 배포 저장소입니다. 
 
-[v0.9.0 다운로드](https://github.com/jjpatch12/beast-saga-korean-patch/releases/tag/v0.9.0)
+
 
 ## 패치 범위
 
